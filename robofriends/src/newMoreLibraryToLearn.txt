@@ -1,0 +1,13 @@
+React Router = routing
+Ramda
+Lodash = higher order fuction
+glamorous
+styled-componentes
+css-modules
+bootstrap
+GatsbyJS = static data (use on react official site)
+NextJS = server side render app
+material
+reslect = use for redux
+redux saga = also use for async call like redux-thunk
+immutableJS
